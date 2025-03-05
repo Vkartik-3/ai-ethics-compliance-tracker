@@ -8,20 +8,20 @@ A hybrid database system using PostgreSQL and Neo4j to analyze, track, and visua
 
 ## 📋 Table of Contents
 
-- [Overview](#overview)
-- [Features](#features)
-- [System Architecture](#system-architecture)
-- [Tech Stack](#tech-stack)
-- [Project Roadmap](#project-roadmap)
-- [Getting Started](#getting-started)
+- [Overview](#-overview)
+- [Features](#-features)
+- [System Architecture](#️-system-architecture)
+- [Tech Stack](#️-tech-stack)
+- [Project Roadmap](#-project-roadmap)
+- [Getting Started](#-getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
   - [Running Locally](#running-locally)
-- [API Documentation](#api-documentation)
-- [Dashboard](#dashboard)
-- [Development Timeline](#development-timeline)
-- [Contributing](#contributing)
-- [License](#license)
+- [API Documentation](#-api-documentation)
+- [Dashboard](#-dashboard)
+- [Development Timeline](#️-development-timeline)
+- [Contributing](#-contributing)
+- [License](#-license)
 
 ## 🔭 Overview
 
