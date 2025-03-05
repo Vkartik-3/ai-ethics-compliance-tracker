@@ -1,5 +1,5 @@
 # AI Ethics Compliance Tracker
-
+This repository has been temporarily taken down due to some privacy issues. It will be uploaded as soon as we resolve the issue
 A hybrid database system using PostgreSQL and Neo4j to analyze, track, and visualize AI ethics policies and compliance risks.
 
 ![Project Status](https://img.shields.io/badge/status-in%20development-yellow)
