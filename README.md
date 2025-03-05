@@ -1,6 +1,13 @@
 # AI Ethics Compliance Tracker
 
-**This repository has been temporarily taken down due to some privacy issues. It will be uploaded as soon as we resolve the issue.**
+<div align="center">
+  <h1 style="color:red; font-size:30px;">
+    ⚠️ THIS REPOSITORY HAS BEEN TEMPORARILY TAKEN DOWN DUE TO PRIVACY ISSUES ⚠️
+  </h1>
+  <h2>
+    IT WILL BE UPLOADED AS SOON AS WE RESOLVE THE ISSUE
+  </h2>
+</div>
 
 A hybrid database system using PostgreSQL and Neo4j to analyze, track, and visualize AI ethics policies and compliance risks.
 
